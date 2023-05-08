@@ -21,7 +21,7 @@ Esta es una página web dedicada a la vida y obra de William S. Burroughs, un in
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/gdespacial/Web-Sobre-William-Burroughs.git
+1. Clona este repositorio: `git clone https://github.com/gdespacial/Web-Sobre-William-Burroughs.git`
 2. Abrí el archivo `INDEXWilliamBurroughs.html` en tu navegador web
 
 ## Autor
