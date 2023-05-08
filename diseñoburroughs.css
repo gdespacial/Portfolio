@@ -1,0 +1,102 @@
+#wsb {
+    width: 20%; 
+    height: auto; 
+  }
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 30px;
+  }
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: lightblue;
+  }
+body {
+    background-color: black;
+    color: white;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .container p, .container ul {
+    text-align: left;
+  }
+body {
+    background-color: black;
+  }
+  
+  h1, h2, p, a {
+    color: white;
+  }
+  
+  #obras h2, #obras ul, #citas h2, #citas ul {
+    color: white;
+  }
+
+body {
+    background-color: black
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(245, 241, 241)
+    color: white;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; 
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(252, 249, 249);
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(8, 8, 8);
+    color: rgb(238, 233, 233);
+    padding: 10px;
+    text-align: center;
+}
+
+
